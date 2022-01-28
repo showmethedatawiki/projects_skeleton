@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 
 projects_template documentation!
-==============================================
+================================
 
 Contents:
 
