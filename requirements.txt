@@ -1,0 +1,28 @@
+# local package
+-e .
+
+# standard tools for data science
+numpy
+pandas
+seaborn
+matplotlib
+jupyterlab
+plotly
+ipykernel
+
+# standard tools for documentation
+sphinx
+sphinx-rtd-theme
+autodoc
+m2r
+
+# standard tools for code quality
+flake8
+coverage
+pylint
+
+# standard tools for loading env variables
+python-dotenv
+
+# standard tools for commandline running
+click
