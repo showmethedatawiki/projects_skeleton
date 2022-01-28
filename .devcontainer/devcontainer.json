@@ -83,7 +83,8 @@
 		"almenon.arepl", 
 		"kevinrose.vsc-python-indent", 
 		"himanoa.python-autopep8", 
-		"docsmsft.docs-article-templates"
+		"docsmsft.docs-article-templates", 
+		"peakchen90.open-html-in-browser"
 	],
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
