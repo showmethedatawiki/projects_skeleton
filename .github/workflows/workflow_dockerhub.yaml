@@ -7,9 +7,9 @@ name: Build and Push Docker Image
 
 on:
   push:
-    branches: [ master ]
+    branches: [ deploy ]
   pull_request:
-    branches: [ master ]
+    branches: [ deploy ]
 
 jobs:
   push_to_registry:
