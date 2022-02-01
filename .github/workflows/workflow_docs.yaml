@@ -1,4 +1,6 @@
 # execute this workflow automatically when a we push to master
+#Note: Guide: https://tech.michaelaltfield.net/2020/07/18/sphinx-rtd-github-pages-1/
+
 on:
   push:
     branches: [ master ]
